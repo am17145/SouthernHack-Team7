@@ -10,7 +10,7 @@
     "@okta/okta-sdk-nodejs": "^1.1.0",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
-    "express": "~4.16.1",
+    "express": "~4.18.2",
     "express-generator": "^4.16.0",
     "express-session": "^1.15.6",
     "http-errors": "~1.6.3",
